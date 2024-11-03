@@ -1,6 +1,8 @@
 # NYC_TLC_Trip_Analysis
 By Muhammad Agisni
 DTI_DS_039
+This is Data Analysis based from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Data that we analyse here is Taxi Trip data from January 2023
 
 # Introduction
 
@@ -23,3 +25,9 @@ To provide insights to stakeholders to assist in strategies or decision-making r
 - Identifying fare revenue to analyses to maximize revenue by adjusting the price.
 
 - Identifying tip behaviours that encourage passenger to pay tips.
+
+# Data
+
+NYC TLC Trip Record.csv
+Taxi zone lookup.csv
+Taxi Zones folder
